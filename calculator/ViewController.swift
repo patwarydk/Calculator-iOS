@@ -4,7 +4,7 @@
 //
 //  Created by Mac on 14/11/17.
 //  Copyright © 2017 Mac. All rights reserved.
-//
+// This is my calculator apps creater  Md. Mohsin patwary
 
 import UIKit
 
@@ -51,9 +51,6 @@ class ViewController: UIViewController {
     
         
     }
-    
-    
-    
     
 
     //clear button action
